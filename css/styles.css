@@ -1,0 +1,13 @@
+.past {
+  font-family: arial
+}
+
+.future {
+  font-family: verdana
+}
+
+img {
+  width: 50%;
+  height: auto;
+  border-radius: 10%;
+}
