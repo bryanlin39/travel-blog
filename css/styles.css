@@ -1,13 +1,19 @@
 .past {
-  font-family: arial
+  font-family: arial;
 }
 
 .future {
-  font-family: verdana
+  font-family: verdana;
 }
 
 img {
   width: 50%;
   height: auto;
   border-radius: 10%;
+}
+
+.about {
+  font-family: arial;
+  font-style: italic;
+  color: #0f49a8;
 }
