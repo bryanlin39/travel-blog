@@ -1,9 +1,11 @@
 .past {
   font-family: arial;
+  margin-top: 50px;
 }
 
 .future {
   font-family: verdana;
+  margin-top: 50px;
 }
 
 img {
@@ -16,4 +18,5 @@ img {
   font-family: arial;
   font-style: italic;
   color: #0f49a8;
+  margin-top: 75px;
 }
